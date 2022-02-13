@@ -2,14 +2,14 @@ $(function () {
     setTimeout(function () {
         $('.name').animate({
             opacity:"1",
-            top:"15%"
+            top:"10%"
         },2000);
 
     },6000);
     setTimeout(function () {
         $('.happy').animate({
             opacity:"1",
-            top:"15%"
+            top:"16%"
         },2000);
 
     },6000);
