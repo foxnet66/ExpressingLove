@@ -26,9 +26,9 @@ html, body {
 .bg {
     width: 100%;
     height: 100%;
-    background: #ee9ca7;
-    background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
-    background: linear-gradient(to bottom right, #ee9ca7 0%, #ee9ca7 100%);
+    background: #dba2bf;
+    background: -webkit-linear-gradient(top left, #dba2bf 0%, #dba2bf 100%);
+    background: linear-gradient(to bottom right, #dba2bf 0%, #dba2bf 100%);
 }
 
 .velas {
@@ -306,14 +306,12 @@ html, body {
 .happy {
     position: absolute;
     opacity:0;
-    width: 230px;
+    width: 300px;
     height: 137px;
     overflow: hidden;
     left: 50%;
-    margin-left: -115px;
+    margin-left: -150px;
     top: 30%;
-
-
     animation-delay: 0s;
 }
 
@@ -461,7 +459,7 @@ html, body {
     border-radius: 30px;
     font-size: 23px;
     text-align: center;
-    background: #ee9ca7;
+    background: #dba2bf;
     transition: all 0.8s;
 }
 
@@ -476,7 +474,7 @@ html, body {
 }
 
 a.lk1:hover {
-    color: #ee9ca7;
+    color: #dba2bf;
     transition: all 0.5s;
 }
 
@@ -488,7 +486,7 @@ a.lk1:hover {
 }
 
 a.lk2:hover {
-    color: #ee9ca7;
+    color: #dba2bf;
     transition: all 0.5s;
 }
 
